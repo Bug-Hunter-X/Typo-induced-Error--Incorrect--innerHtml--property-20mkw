@@ -1,0 +1,1 @@
+This repository demonstrates a common yet easily overlooked error in HTML, specifically when using Javascript to manipulate the DOM.  The bug arises from a simple typo in the 'innerHTML' property, which prevents the expected content from being injected into the targeted HTML element. The solution shows the correct implementation of 'innerHTML'.
